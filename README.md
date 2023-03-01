@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 •	👋 Hi, I’m Léo RAZANADRADODO. I am a freelance graphic designer and web developer specializing in WordPress and Divi.
-👀 I am interested in web development and graphic design !
+
+•	👀 I am interested in web development and graphic design !
 
 •	🌱 I am currently learning everything about development at SAYNA, especially backend development.
 
@@ -11,4 +12,5 @@
 
 
 More about me  https://biggykelly.com/
+
 --> To the pleasure of exchanging and/or collaborating together <--
