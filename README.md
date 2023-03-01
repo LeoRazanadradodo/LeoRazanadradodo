@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**LeoRazanadradodo/LeoRazanadradodo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 •	👋 Hi, I’m Léo RAZANADRADODO. I am a freelance graphic designer and web developer specializing in WordPress and Divi.
 •	👀 I am interested in web development and graphic design !
 •	🌱 I am currently learning everything about development at SAYNA, especially backend development..
@@ -13,8 +8,6 @@ Here are some ideas to get you started:
 
 More about me  https://biggykelly.com/
 **To the pleasure of exchanging and/or collaborating together**
-
--->
 
 
 
